@@ -1,0 +1,6 @@
+train: C:\Users\ahmad\Desktop\custom_yolov8\train
+val: C:\Users\ahmad\Desktop\custom_yolov8\val
+
+nc: 2
+
+names: [ "jacket","hat"]
